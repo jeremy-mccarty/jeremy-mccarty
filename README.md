@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 Technical UI Designer at [bungie](https://www.bungie.net/ "Bungie")
+- 💻 Technical UI Designer at [Bungie](https://www.bungie.net/ "Bungie")
 - 🎮 Working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
 - 🌱 Learning how to build my own portfolio site using GitHub Pages
 - 😄 Pronouns are he/him/his
