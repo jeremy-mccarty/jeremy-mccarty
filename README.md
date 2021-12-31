@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎮 I'm currently working on Destiny 2
+- 🎮 I'm currently working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
 - 🌱 I’m currently learning how to build my own portfolio site using GitHub Pages
 - 😄 Pronouns: he/him/his
