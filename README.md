@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 💻 Senior Technical UI Designer at [Wildlight Entertainment](https://www.wildlight.gg/)
 - 🤫 Currently working on something secret
 - 🌑 Previously Senior Technical UI Designer at [Bungie](https://www.bungie.net/ "Bungie") working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
+- 🪦 Previously Technical UI Designer at Midwinter Entertainment working on [Scavengers](https://steamcommunity.com/app/1183940)
 - 🌱 Learning how to build my own portfolio site using GitHub Pages
 - 😄 Pronouns are he/him/his
 - ⚡ Hobbies include skateboarding, snowboarding, rock climbing, playing music, and hanging out with my wife and our two pups
