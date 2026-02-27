@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 Senior Technical UI Designer at [Wildlight Entertainment](https://www.wildlight.gg/)
-- 🤫 Currently working on something secret
+- 🔎 Looking for my next adventure, find me on [LinkedIn](https://www.linkedin.com/in/jeremymichaelmccarty/)
+- 💻 View my portfolio on [ArtStation](https://imjeremy.artstation.com/)
+- 🪓 Previously Senior Technical UI Designer at [Wildlight Entertainment](https://www.wildlight.gg/) working on [Highguard](https://playhighguard.com/)
 - 🌑 Previously Senior Technical UI Designer at [Bungie](https://www.bungie.net/ "Bungie") working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
 - 🪦 Previously Technical UI Designer at Midwinter Entertainment working on [Scavengers](https://steamcommunity.com/app/1183940)
-- 🌱 Learning how to build my own portfolio site using GitHub Pages
+- 🌱 Learning Python and Tkinter
 - 😄 Pronouns are he/him/his
 - ⚡ Hobbies include skateboarding, snowboarding, rock climbing, playing music, and hanging out with my wife and our two pups
