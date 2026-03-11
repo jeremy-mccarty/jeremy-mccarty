@@ -65,19 +65,19 @@ A simple Python application to **pack and unpack RGBA texture channels**, built 
 [![Latest Release](https://img.shields.io/github/v/release/jeremy-mccarty/texture-packer?logo=github&label=Release&color=blue)](https://github.com/jeremy-mccarty/texture-packer/releases/latest)
 [![CI/CD](https://github.com/jeremy-mccarty/texture-packer/actions/workflows/build.yml/badge.svg)](https://github.com/jeremy-mccarty/texture-packer/actions/workflows/build.yml)
 
-## Downloads
+### Downloads
 
 [![Download Linux](https://img.shields.io/badge/Download-Linux-blue?logo=linux)](https://github.com/jeremy-mccarty/texture-packer/releases/latest)
 [![Download Windows](https://img.shields.io/badge/Download-Windows-brightgreen?logo=windows)](https://github.com/jeremy-mccarty/texture-packer/releases/latest)
 [![Download macOS](https://img.shields.io/badge/Download-macOS-lightgrey?logo=apple)](https://github.com/jeremy-mccarty/texture-packer/releases/latest)
 
-# Blueprint Viewer
+## Blueprint Viewer
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Latest Release](https://img.shields.io/github/v/release/jeremy-mccarty/blueprint-viewer?logo=github&label=Release&color=blue)](https://github.com/jeremy-mccarty/blueprint-viewer/releases/latest)
 [![CI/CD](https://github.com/jeremy-mccarty/blueprint-viewer/actions/workflows/build.yml/badge.svg)](https://github.com/jeremy-mccarty/blueprint-viewer/actions/workflows/build.yml)
 
-## Downloads
+### Downloads
 
 [![Download Linux](https://img.shields.io/badge/Download-Linux-blue?logo=linux)](https://github.com/jeremy-mccarty/blueprint-viewer/releases/latest)
 [![Download Windows](https://img.shields.io/badge/Download-Windows-brightgreen?logo=windows)](https://github.com/jeremy-mccarty/blueprint-viewer/releases/latest)
