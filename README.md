@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔎 Looking for my next adventure, find me on [LinkedIn](https://www.linkedin.com/in/jeremymichaelmccarty/)
+- 🔎 Find me on [LinkedIn](https://www.linkedin.com/in/jeremymichaelmccarty/)
 - 💻 View my portfolio on [ArtStation](https://imjeremy.artstation.com/)
+- 🤫 Working on something secret at [Final Strike Games](https://finalstrikegames.net/)
 - 🪓 Previously Senior Technical UI Designer at [Wildlight Entertainment](https://www.wildlight.gg/) working on [Highguard](https://playhighguard.com/)
 - 🌑 Previously Senior Technical UI Designer at [Bungie](https://www.bungie.net/ "Bungie") working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
 - 🪦 Previously Technical UI Designer at Midwinter Entertainment working on [Scavengers](https://steamcommunity.com/app/1183940)
