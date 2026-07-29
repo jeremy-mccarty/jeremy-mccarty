@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jeremy
+### Hi, I'm Jeremy — I build UI for games.
 
 <!--
 **jeremy-mccarty/jeremy-mccarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🪓 Previously Senior Technical UI Designer at [Wildlight Entertainment](https://www.wildlight.gg/) working on [Highguard](https://playhighguard.com/)
 - 🌑 Previously Senior Technical UI Designer at [Bungie](https://www.bungie.net/ "Bungie") working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
 - 🪦 Previously Technical UI Designer at Midwinter Entertainment working on [Scavengers](https://steamcommunity.com/app/1183940)
-- 🌱 Learning Python and Tkinter
+- 🌱 Learning Python
 - 😄 Pronouns are he/him/his
-- ⚡ Hobbies include skateboarding, snowboarding, rock climbing, playing music, and hanging out with my wife and our two pups
+- ⚡ Outside of work I enjoy fixing bikes, writing and recording music, skateboarding, and spending time working on house projects.
 
 # Featured Work
 
