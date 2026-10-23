@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🪓 Previously Senior Technical UI Designer at [Wildlight Entertainment](https://www.wildlight.gg/) working on [Highguard](https://playhighguard.com/)
 - 🌑 Previously Senior Technical UI Designer at [Bungie](https://www.bungie.net/ "Bungie") working on [Destiny 2](https://www.bungie.net/7/en/Destiny/NewLight "Destiny2")
 - 🪦 Previously Technical UI Designer at Midwinter Entertainment working on [Scavengers](https://steamcommunity.com/app/1183940)
-- 🌱 Learning Python
+- 🌱 Learning Python and developing open source software
 - 😄 Pronouns are he/him/his
-- ⚡ When I am not playing or working on games, I am likely tinkering, making music, or far away from my computer.
+- ⚡ When I am not playing or working on games, I am likely tinkering, making music, or far away from my computer
 
 # Featured Work
 
