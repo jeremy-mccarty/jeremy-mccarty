@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🪦 Previously Technical UI Designer at Midwinter Entertainment working on [Scavengers](https://steamcommunity.com/app/1183940)
 - 🌱 Learning Python
 - 😄 Pronouns are he/him/his
-- ⚡ Outside of work I enjoy fixing bikes, writing and recording music, skateboarding, and spending time working on house projects.
+- ⚡ When I am not playing or working on games, I am likely tinkering, making music, or far away from my computer.
 
 # Featured Work
 
